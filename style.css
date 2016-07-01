@@ -1,0 +1,23 @@
+.card{
+  width: 177px;
+  height: 260px;
+  display: inline-block;
+  background-image: url("cardback2.jpg");
+  background-size: cover;
+  margin: 10px;
+}
+#card-container{
+  text-align: center;
+}
+.color1{
+  background-color: rgb(255, 255, 204);
+  background-image: none;
+}
+.color2{
+  background-color: rgb(179, 179, 179);
+  background-image: none;
+}
+.color3{
+  background-color: rgb(255, 204, 255);
+  background-image: none;
+}
